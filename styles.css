@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    
+}
+
+body{
+
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+img{
+   border-radius:50px;
+}
+
+.data{
+    margin-top: 45px;
+}
+
+.header{
+    margin-top:20px;
+}
+
+h1{
+
+    text-align: center;
+    color:white;
+    margin-top: 20px;
+    font-size: 40px;
+
+}
+
+.container{
+    border:2px solid white;
+    color:white;
+    max-width: 75%;
+    margin:25px auto;
+    padding:30px;
+    background-color: gray;
+    display:grid;
+}
+
+article{
+    margin-top: 35px;
+}
+
+.header-top{
+
+    display:flex;
+    
+
+
+}
